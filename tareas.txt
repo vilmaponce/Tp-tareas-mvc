@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar JavaScript",
+    "descripcion": "Leer sobre closures y scope",
+    "completado": false
+  },
+  {
+    "id": 2,
+    "titulo": "Completar proyecto de Node.js",
+    "descripcion": "Terminar la API REST con Express",
+    "completado": true
+  },
+  {
+    "id": 3,
+    "titulo": "Revisar Tailwind CSS",
+    "descripcion": "Configurar Tailwind en el proyecto",
+    "completado": false
+  },
+  {
+    "id": 4,
+    "titulo": "Escribir tests",
+    "descripcion": "Escribir pruebas unitarias para el servicio de tareas",
+    "completado": true
+  },
+  {
+    "id": 5,
+    "titulo": "Optimizar base de datos",
+    "descripcion": "Revisar índices y mejorar consultas en MySQL",
+    "completado": false
+  }
+]
